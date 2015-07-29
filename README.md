@@ -1,8 +1,4 @@
----
-tags: cssi, javascript
-level: 1
-languages: javascript
----
+
 #Linking Javascript Student Walkthrough
 After the lesson, you'll be able to:
 + Save javascript code to a .js file
